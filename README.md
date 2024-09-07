@@ -27,9 +27,9 @@
   <img align="center" alt="Alex-Keras" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
   <img align="center" alt="Alex-Sklearn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" alt="Alex-Sklearn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
-
+  <img align="center" alt="Alex-PyTorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />****
 </div>
-
+  
 ##
 
 <div>
