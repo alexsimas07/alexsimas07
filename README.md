@@ -33,7 +33,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/alexsander-maia-simas-371222112" target= "_blank"><img src="https://shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="alexsander-maia-simas-371222112" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexsander-maia-simas-371222112?trk=profile-badge">Alexsander Maia Simas</a></div>
   <a href="https://www.instagram.com/alexmaiasimass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <!--![Snake animation](https://github.com/alexsimas07/alexsimas07/blob/output/github-contribution-grid-snake.svg)-->
