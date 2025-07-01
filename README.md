@@ -6,6 +6,7 @@
 - 🌱 Foco em Deep Learning e IA
 - 📡 Muitos projetos pessoais em Machine Learning
 - 📊 Projetos de dashboard interativo
+- 🤖 Projeto de Agente de IA usando Copilot studio da Microsoft (entre os 8 melhores projetos do mundo), chalenge da microsoft
 
 <div>
 <a href="https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url">
