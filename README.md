@@ -8,8 +8,12 @@
 - 📊 Projetos de dashboard interativo
 
 <div>
-# Certificações
-![Microsoft Certification Badge](badges/enterprise-agent-challenge-winner.png)
+# Meu Perfil
+
+## Certificações
+
+[![Enterprise Agent Challenge Winner](badges/enterprise-agent-challenge-winner.png)](https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url )
+  
 </div>
 
 <div>
