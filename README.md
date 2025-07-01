@@ -33,7 +33,7 @@
 ##
 
 <div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9aefd9cd-1078-4cbf-acaf-0d10e12b586a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Minha Certificação no Credly](https://www.credly.com/badges/seu-badge-id.png )](https://www.credly.com/badges/seu-badge-id )
   
   <!--![Snake animation](https://github.com/alexsimas07/alexsimas07/blob/output/github-contribution-grid-snake.svg)-->
   
