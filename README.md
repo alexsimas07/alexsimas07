@@ -9,8 +9,7 @@
 
 <div>
 # Certificações
-
-![Microsoft Certification Badge](https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url)
+![Microsoft Certification Badge](badges/enterprise-agent-challenge-winner.png)
 </div>
 
 <div>
@@ -34,13 +33,4 @@
   <img align="center" alt="Alex-Sklearn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" alt="Alex-Sklearn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
   <img align="center" alt="Alex-PyTorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
-</div>
-  
-##
-
-<div>
-
-  
-  <!--![Snake animation](https://github.com/alexsimas07/alexsimas07/blob/output/github-contribution-grid-snake.svg)-->
-  
 </div>
