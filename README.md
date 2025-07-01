@@ -10,7 +10,7 @@
 <div>
 # Certificações
 
-![Microsoft Certification Badge]([https://images.credly.com/size/680x680/badge/9aefd9cd-1078-4cbf-acaf-0d10e12b586a.png ](https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url))
+![Microsoft Certification Badge](https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url)
 </div>
 
 <div>
