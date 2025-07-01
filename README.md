@@ -38,5 +38,6 @@
   <img align="center" alt="Alex-PyTorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
 </div>
 
+</a>
 Cientista de Dados JR | Especialista em Energia Solar\
 [LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto:alexsandermaiat2@gmail.com)
