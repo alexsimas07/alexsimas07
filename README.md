@@ -8,6 +8,12 @@
 - 📊 Projetos de dashboard interativo
 
 <div>
+# Certificações
+
+![Microsoft Certification Badge](https://images.credly.com/size/680x680/badge/9aefd9cd-1078-4cbf-acaf-0d10e12b586a.png )
+</div>
+
+<div>
   <a href="https://github.com/alexmaiasimas07">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexsimas07&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsimas07&layout=compact&langs_counts=2&theme=tokyonight"/>
@@ -33,7 +39,7 @@
 ##
 
 <div>
-[![Minha Certificação no Credly](https://www.credly.com/badges/seu-badge-id.png )](https://www.credly.com/badges/seu-badge-id )
+
   
   <!--![Snake animation](https://github.com/alexsimas07/alexsimas07/blob/output/github-contribution-grid-snake.svg)-->
   
