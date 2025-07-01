@@ -8,8 +8,6 @@
 - 📊 Projetos de dashboard interativo
 
 <div>
-## Certificações
-
 <a href="https://www.credly.com/badges/9aefd9cd-1078-4cbf-acaf-0d10e12b586a/public_url">
   <img src="badges/enterprise-agent-challenge-winner.png" alt="Enterprise Agent Challenge Winner" width="200"/>
 </a>
