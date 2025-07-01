@@ -37,3 +37,6 @@
   <img align="center" alt="Alex-Sklearn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
   <img align="center" alt="Alex-PyTorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
 </div>
+
+Cientista de Dados JR | Especialista em Energia Solar\
+[LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto:alexsandermaiat2@gmail.com)
