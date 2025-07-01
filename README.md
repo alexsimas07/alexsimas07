@@ -33,8 +33,7 @@
 ##
 
 <div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="alexsander-maia-simas-371222112" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexsander-maia-simas-371222112?trk=profile-badge">Alexsander Maia Simas</a></div>
-  <a href="https://www.instagram.com/alexmaiasimass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9aefd9cd-1078-4cbf-acaf-0d10e12b586a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
   <!--![Snake animation](https://github.com/alexsimas07/alexsimas07/blob/output/github-contribution-grid-snake.svg)-->
   
