@@ -48,7 +48,7 @@
   </a>
   
   <a href="mailto:alexsandermaiat2@gmail.com">
-    <img align="center" alt="Alex-Gmail" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
+    <img align="center" alt="Alex-Gmail" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
   </a>
 </div>
    
