@@ -41,9 +41,13 @@
   <img align="center" alt="Alex-PyTorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
  </div>
 
- <div style="display: inline_block"><br>
-   <h3 align"center"><u> Redes Sociais</u></h3>
-   <img align="center" alt="Alex-Linkedin" height="70" width="80" src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" />
-   <img align="center" alt="Alex-Gmail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
- </div>
+<div style="display: inline-block">
+  <h3 align="center"><u>Redes Sociais</u></h3>
+  <a href="www.linkedin.com/in/alexsander-maia-simas" target="_blank">
+    <img align="center" alt="Alex-Linkedin" height="70" width="80" src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" />
+  </a>
+  <a href="alexsandermaiat2@gmail.com">
+    <img align="center" alt="Alex-Gmail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
+  </a>
+</div>
    
