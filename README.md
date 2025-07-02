@@ -44,7 +44,7 @@
 <div style="display: inline-block">
   <h3 align="center"><u>Redes Sociais</u></h3>
   <a href="https://www.linkedin.com/in/alexsander-maia-simas" target="_blank">
-    <img align="center" alt="Alex-Linkedin" height="70" width="80" src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" />
+    <img align="center" alt="Alex-Linkedin" height="70" width="80" src="https://devicon-website.vercel.app/api/linkedin/original.svg" />
   </a>
   <a href="mailto:alexsandermaiat2@gmail.com">
     <img align="center" alt="Alex-Gmail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
