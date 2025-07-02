@@ -44,6 +44,6 @@
  <div style="display: inline_block"><br>
    <h3 align"center"><u> Redes Sociais</u></h3>
    <img align="center" alt="Alex-Linkedin" height="70" width="80" src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" />
-   <img align="center" alt="Alex-Gmail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icon/gmail/gmail-original.svg"/>
+   <img align="center" alt="Alex-Gmail" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg"/>
  </div>
    
